@@ -1,0 +1,13 @@
+10
+1 torino milano 01/01/2001 13:50 12:30 5
+2 bologna milano 01/02/2001 10:50 12:30 0
+3 torino roma 01/03/2001 10:50 12:30 5
+3 torino roma 01/03/2001 10:50 16:30 0
+2 bologna milano 01/02/2001 10:50 12:30 5
+2 bologna milano 01/02/2001 11:50 12:30 0
+2 bologna milano 01/04/2001 10:50 12:30 0
+1 torino milano 01/04/2001 10:50 12:30 5
+1 torino milano 01/01/2001 10:50 15:30 0
+1 torino milano 01/02/2001 17:50 12:30 0
+
+
